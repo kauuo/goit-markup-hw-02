@@ -6,6 +6,12 @@ body {
 a {
     text-decoration: none;
 }
+
+ul,
+ol {
+    list-style: none;
+}
+
 .logo {
     color: #4D5AE5;
     font-family: 'Raleway', sans-serif;
